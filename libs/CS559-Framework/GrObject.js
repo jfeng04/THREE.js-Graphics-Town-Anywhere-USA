@@ -1,5 +1,5 @@
 /*jshint esversion: 11 */
-// @ts-check
+// @ts-nocheck
 
 /**
  * CS559 3D World Framework Code

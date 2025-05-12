@@ -12,7 +12,7 @@ import { GrWorld } from "../libs/CS559-Framework/GrWorld.js";
 import { GrObject } from "../libs/CS559-Framework/GrObject.js";
 import * as Loaders from "../libs/CS559-Framework/loaders.js";
 import { GrCube } from "../libs/CS559-Framework/SimpleObjects.js";
-import { shaderMaterial } from "../../WB10-jfeng233/libs/CS559-Framework/shaderHelper.js";
+// import { shaderMaterial } from "../../WB10-jfeng233/libs/CS559-Framework/shaderHelper.js";
 import { GLTFLoader } from "../libs/CS559-Three/examples/jsm/loaders/GLTFLoader.js";
 
 /**
