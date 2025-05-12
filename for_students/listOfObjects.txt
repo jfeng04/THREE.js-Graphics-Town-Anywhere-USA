@@ -1,0 +1,44 @@
+The skybox: https://www.universetoday.com/40158/interactive-360-degree-panorama-of-entire-night-sky-now-available/#google_vignette, 
+
+1st object: construction building frame, concrete texture: https://img.freepik.com/free-photo/light-gray-concrete-wall_53876-89532.jpg
+
+2nd object: construction building cloth, green cloth texture: https://img.freepik.com/free-photo/linen-canvas-texture_1373-426.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1713830400&semt=ais; construction board, ad texture: I CREATED MYSELF (for both)
+
+3rd object: roof-light+its shader (reacts with speed-slider)
+
+4th object: construction orange border cloth + dirt, oranger border texture :https://media.istockphoto.com/id/92378168/photo/wrinkled-blue-tarp-texture-full-frame-background.jpg?s=612x612&w=0&k=20&c=sByms2yzbIgkfvzd20Yd_AG7DUUpKTyiNOCt2f1bWhk=
+
+5th object: construction site trash truck ATTRIBUTION TO MYSELF IN WB8
+
+6th object: construction site crane ATTRIBUTION TO MYSELF IN WB8 AND TEXTURE IS -> https://img.freepik.com/free-photo/rough-metallic-surface-texture_23-2148953969.jpg 
+
+7th object: construction site LIGHTS, wrote a very simple shader without any changing.
+
+8th object: sniper post, Chinese QBU-191 DMR 3-D model attribution: "QBU191" (https://skfb.ly/oKFBL) by 会飞的购物清单 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/), for the ammunition box, I created the textures myself (LOOK CLOSELY AT THE SKYSCRAPER OR VIEW SOLO OBJECT, U AIN'T GOIN SEE NOTIN UNLESS U LOOK AT THE ROOF). attribution for frame: myself, attribution for PLA soldier "soldier.png": "https://weibo.com/ttarticle/p/show?id=2309405006426040041488"
+
+9th object: highway system with lights TEXTURE ATTRIBUTION: https://images.pond5.com/road-highway-seamless-texture-motion-footage-062005311_iconl.jpeg , https://staticg.sportskeeda.com/editor/2021/10/e5f66-16347491261689-1920.jpg, https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f7c40c66-5d4e-478c-81bb-d619b9d8f04d/dbvn5i7-9c7e9a8c-01a8-433c-b935-4eac168224e9.jpg/v1/fill/w_730,h_1095,q_70,strp/battlefield_4_china_assault_by_herobrinejryt_dbvn5i7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNyIsInBhdGgiOiJcL2ZcL2Y3YzQwYzY2LTVkNGUtNDc4Yy04MWJiLWQ2MTliOWQ4ZjA0ZFwvZGJ2bjVpNy05YzdlOWE4Yy0wMWE4LTQzM2MtYjkzNS00ZWFjMTY4MjI0ZTkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EKidpOfCavKQfzYSg6niDFXW6JtObmAZr6MzxCEXpUA, https://t4.ftcdn.net/jpg/04/38/07/75/360_F_438077574_mAaaqId1CJsqL8OAQKrMnSmMpRL3cPwE.jpg
+
+10th object: neighborhood roads with lights (significantly different cuz i had to add two mirror sides type stuff)
+
+11th object: parking lot w/ texture & light ATTRIBUTTION : https://img.freepik.com/premium-photo/panoramic-view-from-drone-empty-parking-with-white-marking-lines-asphalt-with-numbered-places-parking-cars-background_338799-1926.jpg
+
+12th object: foliage trees that I made from project 8 attribution: 
+https://www.textures4photoshop.com/tex/thumbs/green-leaf-foliage-texture-background-free-501.JPG
+
+13th object: first house, two roof slants, attribution, textures for ALL-- red roof: https://www.istockphoto.com/photos/red-tile-roof, door texture: https://mobileimages.lowes.com, wall-texture: (my wall), white seperator: https://img.freepik.com
+
+14th object: imported my second type house from wb8, 4 sided roof
+
+15th object: slanted roof house from wb8
+
+16th object: fence system ATTRIBUTION FOR TEXTURE: https://www.textures.com/system/gallery/photos/Wood/Planks/Fences/112469/WoodPlanksFences0126_350.jpg
+
+17th object: pool in backyard, pic-attribution: https://i.pinimg.com/474x/96/62/68/9662686593737a51c10ead0f63baf40f.jpg, I MADE AN ADVANCED SHADER FOR DA WATER
+
+18th object: stationary and moving police car, one moves in a very ADVANCED MANNER BY GIVING OFF THE ILLUSION THAT IT IS DRIVING BACK AND FORTH, so i deserve some advanced points please!!! ATTRIBUTION: "Grand Theft Auto San Andreas - Police Car - LSPD" (https://skfb.ly/6B7B8) by ivannugget is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+19th object: SWAT van (enabled follow and drive cameras), implemented the same shaders, ADVANCED because it moves from side to side and SMARTLY changes its direction to make the ILLUSION that there is some big police raid going on somewhere in town (textures made by yours truly :D ), I ALSO SPENT AGES MAKING IT HAVE A DISAPPEAR OPACITY FADE EFFECT FOR REALISM PLEASE ADVANCED POINTS PLEASE?
+
+20th object: helicopter written by myself (enabled follow and drive cameras), implements articulation in the movements of its rotars and has hierarchy as you can see. I also made sure to add in a running escapee, his model is: https://sketchfab.com/partynoob, here is the QBS-09 shotgun model I got from the web: https://sketchfab.com/3d-models/low-poly-qbs-09-e13ccd2227c64edbb4f611fc52ab6325
+
+21st object: The storage units, I used the brick texture here: https://t4.ftcdn.net/jpg/00/58/81/97/360_F_58819731_fGTowGhMmHx4AdDdGA4AoZB03vjSh2lD.jpg, and I used the door texture here: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2dae177-fb03-443a-bb4b-9e6454c3a1af/d9tjwdj-7dc61a90-6237-4803-8edc-1510153f2ed2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UyZGFlMTc3LWZiMDMtNDQzYS1iYjRiLTllNjQ1NGMzYTFhZlwvZDl0andkai03ZGM2MWE5MC02MjM3LTQ4MDMtOGVkYy0xNTEwMTUzZjJlZDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.00y-gOcuemYvi88dHSvsfGKj8yC-Wj0gFDX5XqtX2ZQ, I used the box company logo here (it's not real): https://gta.fandom.com/wiki/The_Undercover_Storage_Company?file=TheUndercoverStorageCompany-GTAIII-Sign.png

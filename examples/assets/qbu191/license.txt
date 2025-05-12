@@ -1,0 +1,11 @@
+Model Information:
+* title:	QBU191
+* source:	https://sketchfab.com/3d-models/qbu191-7b25638809db493eb65a88145d3b94cc
+* author:	会飞的购物清单 (https://sketchfab.com/flyinglist1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "QBU191" (https://sketchfab.com/3d-models/qbu191-7b25638809db493eb65a88145d3b94cc) by 会飞的购物清单 (https://sketchfab.com/flyinglist1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

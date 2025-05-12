@@ -1,0 +1,66 @@
+Wisc ID: jfeng233
+GitHub ID: jfeng233
+Points = 118
+Grade = 5 out of 5
+
+[X] correct P2 Canvas Assignment submission [none]: 
+[X] clear explanations in p2-workbook.txt [none]: For the definitive list of objects and attributions, check out "listOfObjects.txt" in the same folder. IMPORTANT NOTE: If using Google Chrome, refresh the program after you clicked out of the HTML tab as the van will disappear if you click out for some reason.
+[X] correct P2G Canvas Assignment submission on time [none]: 
+[X] program runs (or seems to run correctly - worth looking at error console) [final-grtown]: 
+[X] frame rate seems OK (not too slow) [final-grtown]: 
+[X] UI is there and seems to work (can lookat and ride) [final-grtown]: Both the helicopter and the S.W.A.T van are drivable/followable, (press drive first and choose your driving vehicle, then click follow and it should follow), IMPORTANT NOTE: If using Google Chrome, refresh the program after you clicked out of the HTML tab as the van will disappear if you click out for some reason.
+[X] highlight list looks OK [final-grtown]: The crane, helicopter, S.W.A.T Van, skyscraper, storage units, and the swimming pool.
+[X] visually distinct from example [final-grtown]: Yes, obviously.
+[X] theme makes sense (need explanation) [final-grtown]: This is Cottonmouth City (Atlanta, USA) suburbs, it is inspired by the Domestic Disturbance level from Manhunt 2 (a video game designed by Rockstar Games).
+[X] cool theme bonus (need explanation) [final-grtown]: It's a shady-corrupt town with rabid deformed vegetable-state escapees and corrupt cops, that theme is AWESOME.
+[X] objects created for this assignment 1, not trivial, can be identified in world (need explanation) [final-grtown]: 1. A construction building, the Majestic Hotel, it combines the basic THREE.js properties and texture mapping.
+[X] objects created for this assignment 2, not trivial, can be identified in world (need explanation) [final-grtown]: 2. The surrounding construction site, trash truck, and crane with a big bolt suspending from the arm.
+[X] 5 more kinds of objects 1, not trivial, can identify (need explanation) [final-grtown]: 3. Infrastructure, I have a half-built construction site, 6 unique neighborhood houses with their own shaders for indoor lighting, a large storage facility, an Interstate highway, neighborhood roads, backyard fencing, and streetlights.
+[X] 5 more kinds of objects 2, not trivial, can identify (need explanation) [final-grtown]: 4. Land vehicles, I have 2 idle police cars I imported from GTA San Andreas, 2 utility trucks that I created myself, and 1 unique moving S.W.A.T MRAP that I created myself.
+[X] 5 more kinds of objects 3, not trivial, can identify (need explanation) [final-grtown]: 5. Foliage, I have a bunch of random trees sprawled around the map.
+[X] 5 more kinds of objects 4, not trivial, can identify (need explanation) [final-grtown]: 6. Aerial vehicles & running project escapee suspect, A flying helicopter and a running project escapee with a shotgun in his hand.
+[X] 5 more kinds of objects 5, not trivial, can identify (need explanation) [final-grtown]: 7. Decorational objects, I have a swimming pool with actual waves (shader), I have the suspect's leftover sniper kit up at the roof of the construction site, and a billboard with the GTA Trilogy characters and Battlefield 4's 3 factions (CN/US/RU) featured up top.
+[X] has building, natural, vehicle (need explanation) [final-grtown]: Buildings: construction (skyscraper) building, storage facility, house 1-2 & 3, Nature: Trees, Vehicles: idle policecars, SWAT MRAP, flying police helicopter, trash truck, and mail truck.
+[X] loaded model (need explanation) [final-grtown]: I loaded in a QBU-191 DMR (sniper nest on top of the skyscraper), QBS-09 Semi-Automatic shotgun (in the hand of the running suspect), GTA San Andreas idle police car, and a backrooms partygoer (the project escapee).
+[X] shader: identifiable and not trivial (need explanation) [final-grtown]: 1: Yellow light for street lights, 2: Flashing red and blue police siren lights, 3: flashing red safety lights, 4: Flashing green helicopter safety lights, 5: wave shader for pool.
+[X] three behaviors you made 1, not trivial, can be identified in scene (need explanation) [final-grtown]: 1. I made a SWAT MRAP that goes down and up the street, it slowly fades out in the distance, giving off the impression of fog outside of the scene-zone. It doesn't move in a line, rather it switches over time when it passes through the border.
+[X] three behaviors you made 2, not trivial, can be identified in scene (need explanation) [final-grtown]: 2.  I made a circling police helicopter that shoots a spotlight on the suspect, the objects interact with each other and are technically one object, two circles moving in both directions with a spotlight looking at the target.
+[ ] three behaviors you made 3, not trivial, can be identified in scene (need explanation) [final-grtown]: 
+[X] at least one object is rideable / followable [final-grtown]: Both the helicopter and the SWAT MRAP are drivable AND followable (press drive first and choose your driving vehicle, then click follow and it should follow).
+[ ] behavior that is not simple (need explanation) [final-grtown]:
+[X] articulated figure (need explanation) [final-grtown]: The helicopter, with spinning rotors and spotlight that is independent of the body's movement (looks at escapee) The person running and spotlight are also parts of the group/object.
+[X] advanced thing 1: has a challenge type (need the name and number from the list) [final-grtown]: Curved Surface #10
+[X] advanced thing 1: works properly, can be identified in the town (need explanation) [final-grtown]: The Trashtruck (green truck), Mailtruck (blue truck), and SWAT MRAP (black moving police truck) are all made out of lineTo's and have Bevel Curves (to smoothen out the edges, look closely).
+[X] advanced thing 1: points above and beyond (need explanation) [final-grtown]: Because I have the curved figures, it makes the truck actually look like a behlievable cartoonish figure.
+[X] advanced thing 2: has a challenge type (need the name and number from the list) [final-grtown]: Water or cloth #9
+[X] advanced thing 2: works properly, can be identified in the town (need explanation) [final-grtown]: I have a swimming pool which has a shader that creates a flowing body of water simulated effect.
+[X] advanced thing 2: points above and beyond (need explanation) [final-grtown]: It took me a while to make that shader, and it fits well with the scene (in some dude's backyard)
+[X] advanced thing 3: has a challenge type (need the name and number from the list) [final-grtown]: Animated Shader Effect #5
+[X] advanced thing 3: works properly, can be identified in the town (need explanation) [final-grtown]: The red safety lights on the skyscraper and the parking lot which interpolate between colors, the green safety interpolating color on the helicopter, the blue&red flashing lights on all the police cars/vans, the idle streetlights-highway lights-windowlights use idle shaders.  
+[X] advanced thing 3: points above and beyond (need explanation) [final-grtown]: I spent forever making the police lights, I believe it is really awesome because it fits the whole vibe of the town, a crappy American gentrified city-limits with a deformed project human-experiment escapee running about from the police. 
+[X] advanced thing 4: has a challenge type (need the name and number from the list) [final-grtown]: Complex Object #3
+[X] advanced thing 4: works properly, can be identified in the town (need explanation) [final-grtown]: The S.W.A.T MRAP Armored van that travels along the Interstate highway
+[X] advanced thing 4: points above and beyond (need explanation) [final-grtown]: I spent an entire day doing it, I had to make myself a new model by scratch, I had to give it headlights, flashing lights at the top, and even an insignia "kind" little slogan on the side (MADE BY A PHOTO EDITOR THAT I USED), in addition, I edited its opacity when it moves past borders to give a fading effect, and I also made it move back and forth throughout the cycle to make an illusion of a bunch of police dudes are frantically searching around the city for reinforcements.
+[X] advanced thing 5: has a challenge type (need the name and number from the list) [final-grtown]: Large Diversity of objects or behaviors #13
+[X] advanced thing 5: works properly, can be identified in the town (need explanation) [final-grtown]: It is located everywhere.
+[X] advanced thing 5: points above and beyond (need explanation) [final-grtown]: Man, I have a storage depot, flashing safety lights, a police chopper, a SWAT MRAP that moves, idle police cars, shotguns and DMRs, Ammunition boxes, crazy deformed project escapees, spotlights, swimming pools, houses, construction sites, highways, streetlights, trash trucks, mail trucks, a billboard, advertisements, you name it!
+
+If you have loaded any geometry from OBJ files, use the space below to credit your source for each file. Be sure to include a confirmation that you are permitted to use this asset (e.g., it is released under a Creative Commons license).
+
+I USED GLTF files!!! you may check out the listOfObjects.txt file for more informations on textures, bump maps, and models I used.
+
+GTA:SA Police car: https://sketchfab.com/3d-models/grand-theft-auto-san-andreas-police-car-lspd-e6da54853e2a4141a9a82adf182e60bc
+Backrooms Partygoer (deformed project suspect escapee): https://sketchfab.com/3d-models/backrooms-cca3efe8ec0e43d9b04dd5f0f0eb4ebd
+Chinese QBS-09 Semi-Automatic shotgun (held by project escapee): https://sketchfab.com/3d-models/low-poly-qbs-09-e13ccd2227c64edbb4f611fc52ab6325
+Chinese QBU-191 Designated marksman rifle (laying on the roof of the skyscraper): https://sketchfab.com/3d-models/qbu191-7b25638809db493eb65a88145d3b94cc
+
+You can follow this format, or something similar:
+
+Note: the addition of guns and stuff is simply to fit in with the Cops vs Robbers dark vibe of my world! please don't take offence of this!
+
+- an-example-file.obj
+  - source: https://graphics.cs.wisc.edu/Courses/559-sp2021/
+  - author: username123
+ - license: CC BY 2.0
+
+

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grand Theft Auto San Andreas - Police Car - LSPD
+* source:	https://sketchfab.com/3d-models/grand-theft-auto-san-andreas-police-car-lspd-e6da54853e2a4141a9a82adf182e60bc
+* author:	ivannugget (https://sketchfab.com/ivannugget)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grand Theft Auto San Andreas - Police Car - LSPD" (https://sketchfab.com/3d-models/grand-theft-auto-san-andreas-police-car-lspd-e6da54853e2a4141a9a82adf182e60bc) by ivannugget (https://sketchfab.com/ivannugget) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Backrooms
+* source:	https://sketchfab.com/3d-models/backrooms-cca3efe8ec0e43d9b04dd5f0f0eb4ebd
+* author:	cassasin🎃 (https://sketchfab.com/partynoob)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Backrooms" (https://sketchfab.com/3d-models/backrooms-cca3efe8ec0e43d9b04dd5f0f0eb4ebd) by cassasin🎃 (https://sketchfab.com/partynoob) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
